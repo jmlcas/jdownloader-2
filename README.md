@@ -1,6 +1,3 @@
-# jdownloader-2
-JDownloader-2 - Descarga de archivos - Docker compose
+# JDownloader-2
 
-Ver en "localhost:8200"
-
-
+Ver en "http://localhost:8200"
